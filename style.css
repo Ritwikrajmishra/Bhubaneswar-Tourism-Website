@@ -1,0 +1,20 @@
+html 
+
+{
+    background-color: rgb(205, 127, 50);
+    text-align: center;
+}
+
+button
+
+{
+    background-color: aqua;
+    border-radius: 360px;
+}
+
+a
+
+{
+    font-size: 100px;
+}
+
